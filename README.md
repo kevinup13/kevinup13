@@ -1,4 +1,5 @@
-# Olá! Eu sou Kevin, Desenvolvedor Web🙋🏽‍♂️
+# Olá! Bem vindo ao meu GitHub🙋🏽‍♂️
+<p>Eu me chamo <strong>Kevin</strong>, sou um estudante de programação, busco sempre manter os estudos em dia objetivando me tornar um excelente profissional da área de TI.</p>
 <div>
   <a href="https://github.com/kevinup13">
     <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" />
@@ -29,6 +30,7 @@
 <div>
   
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />          
   <img align="center" alt="canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="photoshop" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
