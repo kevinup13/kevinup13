@@ -1,5 +1,22 @@
 # Olá! Bem vindo ao meu GitHub🙋🏽‍♂️
-<p>Eu me chamo <strong>Kevin</strong>, estudante de Engenharia de Software e programação web, almejo me tornar um excelente profissional da área de TI.</p>
+```python
+class Programmer:
+    def __init__(self, name, profession):
+        self.name = name
+        self.profession = profession
+
+    def initialize(self):
+        print(f"Initializing {self.profession}")
+
+    def display_info(self):
+        print(f"Name: {self.name}")
+        print(f"Profession: {self.profession}")
+
+programmer = Programmer("Kevin", "Software Engineer")
+programmer.initialize()
+programmer.display_info() 
+```
+
 <div>
   <a href="https://github.com/kevinup13">
     <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" />
