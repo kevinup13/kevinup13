@@ -36,6 +36,9 @@ programmer.display_info()
   <img align="center" alt="bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>       
   <img align="center" alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="django" height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png" />
+
+
   
           
 
