@@ -16,17 +16,18 @@ programmer = Programmer("Kevin", "Software Engineer")
 programmer.initialize()
 programmer.display_info() 
 ```
-
 <div>
   <a href="https://github.com/kevinup13">
-    <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" />
+    <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" style="margin-right: 10px;" />
   </a>
   <a href="https://github.com/kevinup13">
     <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinup13&layout=compact&show_icons=true&theme=merko" />
   </a>
-<div><br>
-  
-  ## Stacks
+</div>
+
+
+
+## Stacks
   
 <div>
   <img align="center" alt="html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
