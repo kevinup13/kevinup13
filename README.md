@@ -22,6 +22,7 @@ class SoftwareEngineer:
 
 kevin = SoftwareEngineer("Kevin Lopes")
 print(kevin)
+```
 <div>
   <a href="https://github.com/kevinup13">
     <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" style="margin-right: 10px;" />
