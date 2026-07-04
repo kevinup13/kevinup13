@@ -1,21 +1,27 @@
-# Olá! Bem vindo ao meu GitHub🙋🏽‍♂️
+<div align="center">
+  <h1>Olá! Bem-vindo ao meu GitHub 🙋🏽‍♂️</h1>
+  <p>Engenheiro de Software focado em soluções web com Python, Django e JavaScript.</p>
+
+  <a href="https://www.linkedin.com/in/kevin-lopes12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.com/channels/363985050578190336/976461758829064243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
+
+---
+
+### 💻 Sobre Mim
+
 ```python
-class Programmer:
-    def __init__(self, name, profession):
+class SoftwareEngineer:
+    def __init__(self, name: str):
         self.name = name
-        self.profession = profession
+        self.role = "Software Engineer"
+        self.main_stacks = ["Python", "Django", "JavaScript"]
+        
+    def __str__(self):
+        return f"{self.name} | {self.role} specializing in {', '.join(self.main_stacks)}"
 
-    def initialize(self):
-        print(f"Initializing {self.profession}")
-
-    def display_info(self):
-        print(f"Name: {self.name}")
-        print(f"Profession: {self.profession}")
-
-programmer = Programmer("Kevin", "Software Engineer")
-programmer.initialize()
-programmer.display_info() 
-```
+kevin = SoftwareEngineer("Kevin Lopes")
+print(kevin)
 <div>
   <a href="https://github.com/kevinup13">
     <img align="center" height="145em" src="https://github-readme-stats.vercel.app/api?username=kevinup13&show_icons=true&theme=merko" style="margin-right: 10px;" />
