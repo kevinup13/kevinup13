@@ -1,4 +1,5 @@
 <!-- INTRODUÇÃO E SAUDAÇÃO -->
+
 <div align="center">
   <h1>Olá! Bem-vindo ao meu GitHub 🙋🏽‍♂️</h1>
   <p>Engenheiro de Software focado em soluções web com Python, Django e JavaScript.</p>
@@ -55,9 +56,12 @@ print(kevin)
   <img alt="css" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="javascript" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="typescript" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="bootstrap" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img alt="tailwind" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> 
   <img alt="python" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="django" height="45" style="margin: 0 5px;" src="https://img.icons8.com/color/48/000000/django.png" />
+  <img alt="Django" height="45" style="margin: 0 5px;" src="https://devicon-website.vercel.app/api/django/plain.svg?color=%2300A94E" />
+  <img alt="tailwind" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> 
+  <img alt="bootstrap" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="postgree" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Git" height="45" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+             
 </div>
+
