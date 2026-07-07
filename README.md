@@ -3,7 +3,7 @@
   <p>Engenheiro de Software focado em soluções web com Python, Django e JavaScript.</p>
 
   <a href="https://www.linkedin.com/in/kevin-lopes12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.com/channels/363985050578190336/976461758829064243" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  
 </div>
 
 ---
