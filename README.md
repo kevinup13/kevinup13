@@ -11,17 +11,17 @@
 <br>
 
 <!-- GRÁFICOS DE MEDIÇÃO (LADO A LADO E CENTRALIZADOS) -->
-<div align="center">
-  <table border="0"> 
+<div align="center" >
+  <table width="100%" border="0"> 
     <tr>
-      <td align="center" valign="top">
+      <td align="center" valign="top" >
       <a href="https://github.com">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kevinup13&langs_count=4&theme=midnight-purple" alt="Estatísticas Gerais de Kevin" />
+          <img height="200px" src="https://github-stats-extended.vercel.app/api/top-langs?username=kevinup13&langs_count=4&theme=midnight-purple" alt="Estatísticas Gerais de Kevin" />
         </a>
       </td>
-      <td align="center" valign="top">
+      <td align="center" valign="top" >
           <a href="https://github.com">
-          <img src="https://github-stats-extended.vercel.app/api?username=kevinup13&show_icons=true&theme=midnight-purple" alt="Estatísticas Gerais de Kevin" />
+          <img  height="350px" src="https://github-stats-extended.vercel.app/api?username=kevinup13&show_icons=true&theme=midnight-purple" alt="Estatísticas Gerais de Kevin" />
         </a>
       </td>
     </tr>
